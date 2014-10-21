@@ -8,6 +8,7 @@
     "multiple",
     "form"
   ],
+  "ignore": [ "test" ],
   "version": "0.9.8",
   "author": {
     "name": "Kiwi",
