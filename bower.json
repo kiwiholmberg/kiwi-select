@@ -1,6 +1,6 @@
 {
   "name": "kiwi-select",
-  "version": "0.9.10",
+  "version": "0.9.13",
   "description" : "A user-friendlier drop-in replacement for the standard select with multiple attribute activated.",
   "license" : "MIT",
   "main": [
