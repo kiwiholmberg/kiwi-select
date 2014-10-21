@@ -1,3 +1,2 @@
-# jquery.multi-select.js
+# Clone of jquery.multi-select.js (by loudev.com).
 
-Usage and Demos [http://loudev.com](http://loudev.com "jquery.multi-select.js")
