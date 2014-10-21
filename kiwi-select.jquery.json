@@ -1,9 +1,9 @@
 {
   "name": "kiwi-select",
-  "title": "multiselect",
+  "title": "kiwi-select",
   "description": "This is a user-friendlier drop-in replacement for the standard <select> with multiple attribute activated.",
   "keywords": [
-    "multiselect",
+    "kiwi-select",
     "select",
     "multiple",
     "form"

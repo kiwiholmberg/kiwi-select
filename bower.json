@@ -1,12 +1,12 @@
 {
-  "name": "multiselect",
+  "name": "kiwi-select",
   "version": "0.9.10",
   "description" : "A user-friendlier drop-in replacement for the standard select with multiple attribute activated.",
   "license" : "MIT",
   "main": [
-    "./css/multi-select.css",
+    "./css/kiwi-select.css",
     "./img/switch.png",
-    "./js/jquery.multi-select.js"
+    "./js/jquery.kiwi-select.js"
   ],
   "dependencies" : {
     "jquery" : ">= 1.7.1"
